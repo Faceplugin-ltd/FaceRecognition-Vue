@@ -5,13 +5,12 @@
 #### Hugging Face - [Here](https://huggingface.co/spaces/FacePlugin-Ltd/FaceRecognition-LivenessDetection-SDK) <span> <img src="https://github.com/user-attachments/assets/303cda2b-a195-42c5-b481-6b2b796d2910" style="margin: 4px; width: 36px; height: 20px"> <span/>
 #### Documentation- [Here](https://doc.faceplugin.com)
 
-# Face-Recognition-SDK-Demo-React
+# Face Recognition SDK Vue Demo
 ## Overview
 Explore **Completely free and open source** `face recognition Vue Plugin` from [Faceplugin](https://faceplugin.com/) Top-ranked on NIST FRVT , coupled with an advanced `iBeta level 2 liveness detection` engine that effectively safeguards against **printed photos, video replay, 3D masks, and deepfake threats**, ensuring top-tier security.
 <br>This is `on-premise face recognition SDK` which means everything is processed in your phone and **NO** data leaves the device.
 <br></br>
 
-# Face-Recognition-SDK-Demo-Vue
 ## How to Run
 ### Install dependencies
 ```
